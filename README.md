@@ -65,6 +65,4 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 </div>
 
 ## Projects
-- Detection Lab
-- Test Project
-- SOC Automation Project
+
