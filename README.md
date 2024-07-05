@@ -88,7 +88,7 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 <div>
     <p>
-        During my research, I completed a practical ethical hacking project where I engaged with a VulnHub box. Upon completing the project, I presented my findings to the class after being requested by my instructor. I successfully identified and documented two flags: the user flag and the root flag. The presentation included demonstrations of comprehensive scans, techniques for privilege escalation, and configurations to exploit vulnerabilities. This hands-on experience not only enhanced my technical proficiency but also provided practical insights into cybersecurity methodologies in real-world scenarios.
+        During my research, I completed a practical ethical hacking project where I engaged with a VulnHub box. Upon completing the project, I presented my research and completion to the class after being requested by my lecturer. I successfully identified and documented two flags: the user flag and the root flag. The presentation included demonstrations of comprehensive scans, techniques for privilege escalation, and configurations to exploit vulnerabilities. This hands-on experience not only enhanced my technical proficiency but also provided practical insights into cybersecurity methodologies in real-world scenarios.
     </p>
 </div>
 
