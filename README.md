@@ -74,12 +74,11 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-MCSA-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MSGIHQRKQZ.png" target="_blank"><img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-9F35FF?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8NQJVEQN6Q.png" target="_blank"><img src="https://img.shields.io/badge/-Pre%20Security-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://www.comptia.org/certifications/a" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%2B-0057B8?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.microsoft.com/en-us/learning/mcsa-certification.aspx" target="_blank"><img src="https://img.shields.io/badge/-MCSA-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank"><img src="https://img.shields.io/badge/-CCNA-1A1A1A?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 
 </div>
 
