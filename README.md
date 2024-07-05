@@ -33,43 +33,43 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 ### Microsoft Tools
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hyper--V-0078D7?style=for-the-badge&logo=Hyper-V&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/microsoft-365/windows/enterprise-security" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img src="https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white" /></a>
+    <a href="https://www.microsoft.com/en-us/cloud-platform/hyper-v" target="_blank"><img src="https://img.shields.io/badge/-Hyper--V-0078D7?style=for-the-badge&logo=Hyper-V&logoColor=white" /></a>
 </div>
 
 ### Web Application Tools
 <div>
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=burp-suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLMap-1C1C1C?&style=for-the-badge&logo=sqlmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" />
+ <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=burp-suite&logoColor=white" /></a>
+    <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=owasp&logoColor=white" /></a>
+    <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"><img src="https://img.shields.io/badge/-SQLMap-1C1C1C?&style=for-the-badge&logo=sqlmap&logoColor=white" /></a>
+    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
+    <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
+    <a href="https://www.openssl.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" /></a>
 
 </div>
 
 ### Operating Systems
 <div>
-   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-   <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+   <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
+    <a href="https://www.centos.org/" target="_blank"><img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /></a>
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" /></a>
 
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
 ### Virtualization
 <div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
+    <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" /></a>
+    <a href="https://www.microsoft.com/en-us/cloud-platform/hyper-v" target="_blank"><img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
 ## Certifications
