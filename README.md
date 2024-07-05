@@ -79,6 +79,7 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-MCSA-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MSGIHQRKQZ.png" target="_blank"><img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-9F35FF?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 </div>
 
