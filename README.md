@@ -22,7 +22,6 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 ### Network
 <div>
-    
     <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
     <a href="https://www.openssl.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" /></a>
