@@ -22,12 +22,13 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-1E1E1E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-42A62A?&style=for-the-badge&logo=openvas&logoColor=white" />
+    
+    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
+    <a href="https://www.openssl.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" /></a>
+    <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/-Tcpdump-1E1E1E?&style=for-the-badge&logo=tcpdump&logoColor=white" /></a>
+    <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
+    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenVAS-42A62A?&style=for-the-badge&logo=openvas&logoColor=white" /></a>
     
 </div>
 
@@ -80,15 +81,6 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-MCSA-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-</div>
-
-<div>
-    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
-    <a href="https://www.openssl.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" /></a>
-    <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/-Tcpdump-1E1E1E?&style=for-the-badge&logo=tcpdump&logoColor=white" /></a>
-    <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
-    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenVAS-42A62A?&style=for-the-badge&logo=openvas&logoColor=white" /></a>
 </div>
 
 ## Projects
