@@ -11,11 +11,11 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assesment and Management         | Deathnote (VulnHub)
-| Web Application Penetration Testing           | Deathnote & Jangow01 (VulnHub)
-| Network Penetration Testing                   | TryHackMe Box
+| Vulnerability Assesment and Management         | Jr Penetration Tester 
+| Web Application Penetration Testing           | TryHackMe, & Vulnhub Boxes
+| Network Penetration Testing                   | Jr Penetration Tester
 | Incident Response Planning and Execution      | Incident Response Project
-| Case Management with TheHive                  | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Level 1
 | Scripting and Automation for Threat Mitigation | Threat Mitigation Scripts
 
 ## Tools
