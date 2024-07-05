@@ -23,6 +23,12 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-1E1E1E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-42A62A?&style=for-the-badge&logo=openvas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" />
+    
 </div>
 
 ### Microsoft Tools
