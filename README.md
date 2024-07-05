@@ -38,6 +38,17 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
     <img src="https://img.shields.io/badge/-Hyper--V-0078D7?style=for-the-badge&logo=Hyper-V&logoColor=white" />
 </div>
 
+### Web Application Tools
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-1C1C1C?&style=for-the-badge&logo=sqlmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-157EC3?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721817?&style=for-the-badge&logo=openssl&logoColor=white" />
+
+</div>
+
 ### Operating Systems
 <div>
    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white" />
