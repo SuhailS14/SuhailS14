@@ -69,6 +69,7 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 <div>
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Certifications
