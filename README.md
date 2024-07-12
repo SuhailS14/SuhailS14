@@ -1,11 +1,11 @@
 # Hello, I'm Suhail
 <a href="https://linkedin.com/in/suhail-sabry-12435a223/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student in Cyber-Security and Networking Currently gaining valuable knowledge in my HnD. With my experience and interest in Cyber-Security I am dedicated to solving complex problems. I would be delighted to join as an Intern and experience the corporate world as a Tier 1 or 2 Cyber-security Intern
+Aspiring cybersecurity professional with hands-on experience in penetrationtesting and threat analysis on platforms like VulnHub and TryHackMe. I possess a solid foundation in cybersecurity principles and practices. Eager toapply my skills and knowledge, I am committed to contributing to a dynamicsecurity team and to protecting digital assets.
 
 ## Objective
 
-My journey in Cyber-Security & Computer Sciences have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Penetration Tester.
+To leverage my hands-on experience in penetration testing and threat analysis, solid foundation in cybersecurity principles, and dedication to protecting digital assets by contributing effectively to a dynamic security team.
 
 ## Skills
 
