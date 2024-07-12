@@ -84,7 +84,7 @@ My journey in Cyber-Security & Computer Sciences have led me to develop a passio
 
 ## Projects
 
-### Practical Ethical Hacking Project
+### Vulnhub
 
 <div>
     <p>
