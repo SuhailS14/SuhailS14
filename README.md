@@ -88,8 +88,10 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 
 <div>
     <p>
-        During my research, I completed a practical ethical hacking project where I engaged with a VulnHub box. Upon completing the project, I presented my research and completion to the class after being requested by my lecturer. I successfully identified and documented two flags: the user flag and the root flag. The presentation included demonstrations of comprehensive scans, techniques for privilege escalation, and configurations to exploit vulnerabilities. This hands-on experience not only enhanced my technical proficiency but also provided practical insights into cybersecurity methodologies in real-world scenarios.
+        Completed multiple VulnHub boxes, enhancing practicalcybersecurity skills through hands-on vulnerability assessment andpenetration testing exercises. I also presented a VulnHub box incampus, demonstrating proficiency in scanning, privilege escalation,and detailed configuration steps to achieve penetration testingobjectives, showcasing practical cybersecurity skills.
     </p>
 </div>
+
+
 
 
