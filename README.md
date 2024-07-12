@@ -60,11 +60,10 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 
 ### SIEM
 <div>
-   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GRAYLOG.png" target="_blank"><img src="https://img.shields.io/badge/-Graylog-808080?style=for-the- 
-      badge&logo=TryHackMe&logoColor=white" /></a>
+   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/-ELK%20Stack-808080?style=for-the-badge&logo=elastic&logoColor=white" /></a>
     <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ELK-STACK.png" target="_blank"><img src="https://img.shields.io/badge/-ELK%20Stack-808080? 
-      style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+    <a href="https://www.graylog.org/" target="_blank"><img src="https://img.shields.io/badge/-Graylog-808080?style=for-the-badge&logo=graylog&logoColor=white" /></a>
+
 </div>
 
 ### Virtualization
