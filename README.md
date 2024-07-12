@@ -82,7 +82,7 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 
 </div>
 
-## Projects
+# Projects
 
 ### Vulnhub
 
@@ -92,6 +92,51 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
     </p>
 </div>
 
+## TryHackMe
+### Burp Suite
 
+<div>
+    <p>
+        Completed the Jr Penetration Tester path on TryHackMe, utilizing Burp Suite for web application security testing. Conducted detailed analysis of web vulnerabilities, performed automated and manual testing, and documented findings to improve security measures.
+    </p>
+</div>
 
+### Metasploit
 
+<div>
+    <p>
+        Engaged in multiple projects within the Jr Penetration Tester path on TryHackMe, employing Metasploit for penetration testing. Executed exploit development, payload delivery, and post-exploitation techniques to uncover and address security flaws.
+    </p>
+</div>
+
+### Splunk Fundamentals
+
+<div>
+    <p>
+        Completed the Security Engineer path on TryHackMe, gaining proficiency in Splunk fundamentals. Conducted log analysis, set up real-time alerts, and created dashboards to monitor and respond to security incidents effectively.
+    </p>
+</div>
+
+### Wireshark
+
+<div>
+    <p>
+        Participated in the Security Engineer path on TryHackMe, using Wireshark for network traffic analysis. Captured and analyzed packets to identify anomalies, troubleshoot network issues, and enhance network security protocols.
+    </p>
+</div>
+
+### Nmap
+
+<div>
+    <p>
+        In the Jr Penetration Tester path on TryHackMe, utilized Nmap for network scanning and reconnaissance. Conducted comprehensive scans to discover hosts, open ports, and services, providing crucial information for vulnerability assessments.
+    </p>
+</div>
+
+### Netcat
+
+<div>
+    <p>
+        Through the Jr Penetration Tester path on TryHackMe, employed Netcat for network exploration and debugging. Executed tasks such as banner grabbing, data transfer, and creating reverse shells to test and secure network environments.
+    </p>
+</div>
