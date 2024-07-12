@@ -60,9 +60,11 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 
 ### SIEM
 <div>
-   <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GRAYLOG.png" target="_blank"><img src="https://img.shields.io/badge/-Graylog-808080?style=for-the- 
+      badge&logo=TryHackMe&logoColor=white" /></a>
     <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ELK-STACK.png" target="_blank"><img src="https://img.shields.io/badge/-ELK%20Stack-808080? 
+      style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 </div>
 
 ### Virtualization
