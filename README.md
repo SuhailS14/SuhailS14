@@ -88,7 +88,7 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 
 <div>
     <p>
-        Completed multiple VulnHub boxes, enhancing practicalcybersecurity skills through hands-on vulnerability assessment andpenetration testing exercises. I also presented a VulnHub box incampus, demonstrating proficiency in scanning, privilege escalation,and detailed configuration steps to achieve penetration testingobjectives, showcasing practical cybersecurity skills.
+        Completed multiple VulnHub boxes, enhancing practical cybersecurity skills through hands-on vulnerability assessment andpenetration testing exercises. I also presented a VulnHub box incampus, demonstrating proficiency in scanning, privilege escalation,and detailed configuration steps to achieve penetration testingobjectives, showcasing practical cybersecurity skills.
     </p>
 </div>
 
