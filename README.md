@@ -76,6 +76,8 @@ To leverage my hands-on experience in penetration testing and threat analysis, s
 <div>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MSGIHQRKQZ.png" target="_blank"><img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-9F35FF?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8NQJVEQN6Q.png" target="_blank"><img src="https://img.shields.io/badge/-Pre%20Security-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SECURITY-ENGINEER.png" target="_blank"><img src="https://img.shields.io/badge/-Security%20Engineer-FF0000?style=for-the-badge&logo=TryHackMe&
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SOC-LEVEL-1.png" target="_blank"><img src="https://img.shields.io/badge/-SOC%20Level%201-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 </div>
 
